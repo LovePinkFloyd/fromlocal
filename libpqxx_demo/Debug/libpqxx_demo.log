@@ -1,0 +1,2 @@
+﻿  libpqxx_demo.cpp
+libpqxx_staticD.lib(version.obj) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突
